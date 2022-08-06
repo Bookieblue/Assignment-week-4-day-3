@@ -1,0 +1,101 @@
+
+.FirstContainer{
+    background-color: white;
+    width:535px;
+    height:620px;
+    margin-left:400px;
+    padding-top:0.5px;
+    box-shadow: 3px 3px 3px 2px rgb(163, 159, 159);
+
+   
+}
+
+.SecondContainer{
+    background-color:rgb(224, 199, 182);
+    height:250px;
+    width:460px;
+    padding-left:35px;
+    padding-top:20px;
+    margin:20px;
+    border-radius:10px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size:large;
+    font-weight:600px;
+    color:rgb(104, 73, 122);
+    letter-spacing: 1px;  
+    line-height: 2px;
+
+}
+
+.SecondContainer img{
+
+    width:150px;
+    height:150px;
+    float:right;
+    margin-right:20px;
+    border-radius: 10px;
+}
+
+
+
+
+.ThirdContainer{
+    background-color: white;
+     margin-left:35px;
+     width: 480px;
+
+   
+}
+.form{
+    width: 480px;
+    color:rgb(63, 50, 117);
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight:bold;
+    
+}
+
+
+
+.FourthContainer{
+    text-align: center;
+    line-height:2px;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+    color: grey;
+}
+
+.FifthContainer{
+    text-align: center;
+    color:rgb(59, 15, 100);
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+.btn{
+    height:50px;
+    width: 480px;
+    background-color:rgb(63, 50, 117);
+    border-radius:5px;
+    font-family:'Segoe UI', Tahoma,  Verdana, sans-serif;
+    font-size:16px;
+    font-weight: bolder;
+    color:#fff;
+    outline:none;
+    border: none;
+    
+
+    
+    }
+.form input{
+border:none;
+border-bottom:1px solid rgb(63, 50, 117);
+outline: transparent;
+font-size: medium;
+width:480px;
+
+
+}
+
+
+    
